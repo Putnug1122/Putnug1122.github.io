@@ -17,45 +17,45 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: 
+  title-url: 
+  date: 
+  subtitle: 
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
+    - tag: 
+    - tag: 
+    - tag: 
+    - tag: 
+  timeline-side:
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: 
+  title-url: 
+  date: 
+  subtitle: 
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
+    - tag: 
+    - tag: 
+    - tag: 
+  timeline-side: 
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
+- title: 
+  title-url: 
+  date: 
+  subtitle: 
+  timeline-side: 
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: 
+  title-url: 
+  date: 
+  subtitle: 
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
+    - tag: 
+    - tag: 
+    - tag: 
+  timeline-side: 
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Polstat STIS
+  title-url: https://stis.ac.id/
+  date: 2020 - 2024
+  subtitle: Computational Statistic
   timeline-side: left

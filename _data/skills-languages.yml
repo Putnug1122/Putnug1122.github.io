@@ -29,7 +29,7 @@
 - name: Dart
   weight: 1
 
-- name: Swift
+- name: R
   weight: 1
 
 - name: Kotlin
