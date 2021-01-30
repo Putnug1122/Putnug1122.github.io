@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a college student in Polstat STIS with big interest in how data shapes our lives. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques. 
-I'm okay to programming in Java, C++, and Python. I also a little bit love cryptography and reverse engineering.
+about_me_description: I'm a college student in Polstat STIS with big interest in how data shapes our lives. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
